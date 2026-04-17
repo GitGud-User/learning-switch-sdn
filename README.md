@@ -67,7 +67,7 @@ sudo ovs-ofctl dump-flows s1
 
 ## 📸 Screenshots
 
-(Add images in /screenshots folder)
+(Uploaded 4 images in Screenshots folder)
 
 ---
 
